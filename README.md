@@ -1,4 +1,4 @@
-### Hi there 👋
+### Do the goddamn cool stuff right now
 
 <!--
 **Sid1057/sid1057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
