@@ -2,10 +2,11 @@ Computer vision software engineer focused on cameras only approach
 
 ### Content
 
-[sid1057's youtube](https://www.youtube.com/channel/UCtTnP2N39ZJtdKt9i5u7meg)
+
+[![youtube](https://github.com/Sid1057/sid1057/raw/master/youtube%20(2).png)](https://www.youtube.com/channel/UCtTnP2N39ZJtdKt9i5u7meg)
 *cool videos, useful playlists*
 
-[sid1057's blog](https://sid1057.github.io/)
+[![blog](https://github.com/Sid1057/sid1057/raw/master/post.png)](https://sid1057.github.io/)
 *links, articles, papers etc.*
 
 > Do the goddamn cool stuff right now
