@@ -1,6 +1,6 @@
-[![youtube](https://github.com/Sid1057/sid1057/raw/master/youtube%20(2).png)](https://www.youtube.com/channel/UCtTnP2N39ZJtdKt9i5u7meg) - [Youtube](https://www.youtube.com/channel/UCtTnP2N39ZJtdKt9i5u7meg)
+[![youtube](https://github.com/Sid1057/sid1057/raw/master/youtube%20(2).png)](https://www.youtube.com/channel/UCtTnP2N39ZJtdKt9i5u7meg) - [Youtube](https://www.youtube.com/channel/UCtTnP2N39ZJtdKt9i5u7meg)  // next video on Sunday
 
-[![blog](https://github.com/Sid1057/sid1057/raw/master/baseline_laptop_chromebook_black_24dp.png)](https://www.sid1057.github.io) - [Blog](https://www.sid1057.github.io)
+[![blog](https://github.com/Sid1057/sid1057/raw/master/baseline_laptop_chromebook_black_24dp.png)](https://www.sid1057.github.io) - [Blog](https://www.sid1057.github.io)  // new posts every first Saturday of the month
 
 
 
