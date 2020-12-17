@@ -3,7 +3,8 @@
 [![blog](https://github.com/Sid1057/sid1057/raw/master/baseline_laptop_chromebook_black_24dp.png)](https://sid1057.github.io) - [Blog](https://sid1057.github.io)  // new posts every first Saturday of the month
 
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sid1057&repo=Sython)](https://github.com/Sid1057/Sython)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sid1057&repo=fckros)](https://github.com/Sid1057/fckros)
 <!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sid1057&count_private=true)
 
@@ -14,7 +15,6 @@ ___
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sid1057&count_private=true&layout=compact&hide_progress=true)
 
 ___
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
