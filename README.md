@@ -1,7 +1,7 @@
-||Platform|Annonce|
-| - |:--:| --|
-|[![youtube](https://github.com/Sid1057/sid1057/raw/master/youtube%20(2).png)](https://www.youtube.com/channel/UCtTnP2N39ZJtdKt9i5u7meg)|[Youtube](https://www.youtube.com/channel/UCtTnP2N39ZJtdKt9i5u7meg)| |
-|[![blog](https://github.com/Sid1057/sid1057/raw/master/baseline_laptop_chromebook_black_24dp.png)](https://sid1057.github.io)|[Blog](https://sid1057.github.io)| |
+
+[![youtube](https://github.com/Sid1057/sid1057/raw/master/youtube%20(2).png)](https://www.youtube.com/channel/UCtTnP2N39ZJtdKt9i5u7meg) [![blog](https://github.com/Sid1057/sid1057/raw/master/baseline_laptop_chromebook_black_24dp.png)](https://sid1057.github.io)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sid1057)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sid1057&count_private=true)
