@@ -1,11 +1,11 @@
 
-[![youtube](https://github.com/Sid1057/sid1057/raw/master/youtube%20(2).png)](https://www.youtube.com/channel/UCtTnP2N39ZJtdKt9i5u7meg) [![blog](https://github.com/Sid1057/sid1057/raw/master/baseline_laptop_chromebook_black_24dp.png)](https://sid1057.github.io)
+[![blog](https://github.com/Sid1057/sid1057/blob/master/mustang.png)](https://sid1057.github.io)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sid1057)](https://github.com/Sid1057)
 
 <!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sid1057&count_private=true)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sid1057)](https://github.com/Sid1057)
 ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sid1057&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
