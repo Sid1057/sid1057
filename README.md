@@ -1,5 +1,5 @@
 
-[![blog](https://github.com/Sid1057/sid1057/blob/master/mustang.png)](https://sid1057.github.io)
+[![blog](https://github.com/Sid1057/sid1057/blob/master/mustang_wide.png)](https://sid1057.github.io)
 
 
 <!--
