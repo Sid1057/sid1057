@@ -1,5 +1,7 @@
 
-[![blog](https://github.com/Sid1057/sid1057/blob/master/mustang_wide.png)](https://sid1057.github.io)
+![](https://komarev.com/ghpvc/?username=sid1057&color=gray&style=plastic)
+
+<!-- [![blog](https://github.com/Sid1057/sid1057/blob/master/mustang_wide.png)](https://sid1057.github.io) -->
 
 
 <!--
