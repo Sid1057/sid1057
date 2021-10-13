@@ -1,9 +1,8 @@
 name: Latest blog post workflow
 on:
+  workflow_dispatch:
   schedule:
-    # Runs every hour
-    - cron: "0 * * * *"
-  workflow-dispatch:
+    - cron:  '0 * * * *'
 
 jobs:
   update-readme-with-blog:
@@ -14,3 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://sid1057.github.io/sitemap.xml"
+          max_post_count: "5"
