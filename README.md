@@ -8,8 +8,6 @@
 - [Midas comparison](/2021/07/11/midas-comarison)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
-
 ## Latest Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=90wuushenn0"><img width="140px" src="https://i.ytimg.com/vi/90wuushenn0/mqdefault.jpg"></a></td>
@@ -19,8 +17,6 @@
 <table><tr><td><a href="https://www.youtube.com/watch?v=dPstxiHUxJE"><img width="140px" src="https://i.ytimg.com/vi/dPstxiHUxJE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dPstxiHUxJE">3D object detection and tracking using stereo pair</a><br/>2020-Jun-18</td></tr></table>
 <!-- YOUTUBE:END -->
-
-<br/>
 
 ![](https://komarev.com/ghpvc/?username=sid1057&color=gray&style=plastic)
 
