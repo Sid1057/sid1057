@@ -20,7 +20,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-[![blog](https://github.com/Sid1057/sid1057/blob/master/mustang_wide.jpg)](https://sid1057.github.io)
+<!-- [![blog](https://github.com/Sid1057/sid1057/blob/master/mustang_wide.jpg)](https://sid1057.github.io) -->
 
 ![](https://komarev.com/ghpvc/?username=sid1057&color=gray&style=plastic)
 
