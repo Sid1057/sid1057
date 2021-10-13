@@ -1,7 +1,7 @@
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START ->
-<!-- BLOG-POST-LIST:END ->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 [![blog](https://github.com/Sid1057/sid1057/blob/master/mustang_wide.jpg)](https://sid1057.github.io)
