@@ -1,16 +1,4 @@
-## Latest Videos
-
-
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=90wuushenn0"><img width="140px" src="https://i.ytimg.com/vi/90wuushenn0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=90wuushenn0">Comparison of different MIDAS versions</a><br/>2021-Jul-11</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=5IImLps1ayw"><img width="140px" src="https://i.ytimg.com/vi/5IImLps1ayw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5IImLps1ayw">Why should you use something else except monocular depth estimation</a><br/>2020-Sep-3</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=dPstxiHUxJE"><img width="140px" src="https://i.ytimg.com/vi/dPstxiHUxJE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dPstxiHUxJE">3D object detection and tracking using stereo pair</a><br/>2020-Jun-18</td></tr></table>
-<!-- YOUTUBE:END -->
-
-
-<!-- ## Latest Blog Posts -->
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Digest 2021-08-17](/2021/08/17/Github-Digest)
@@ -20,8 +8,19 @@
 - [Midas comparison](/2021/07/11/midas-comarison)
 <!-- BLOG-POST-LIST:END -->
 
+<br/>
 
-<!-- [![blog](https://github.com/Sid1057/sid1057/blob/master/mustang_wide.jpg)](https://sid1057.github.io) -->
+## Latest Videos
+
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=90wuushenn0"><img width="140px" src="https://i.ytimg.com/vi/90wuushenn0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=90wuushenn0">Comparison of different MIDAS versions</a><br/>2021-Jul-11</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5IImLps1ayw"><img width="140px" src="https://i.ytimg.com/vi/5IImLps1ayw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5IImLps1ayw">Why should you use something else except monocular depth estimation</a><br/>2020-Sep-3</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=dPstxiHUxJE"><img width="140px" src="https://i.ytimg.com/vi/dPstxiHUxJE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dPstxiHUxJE">3D object detection and tracking using stereo pair</a><br/>2020-Jun-18</td></tr></table>
+<!-- YOUTUBE:END -->
+
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=sid1057&color=gray&style=plastic)
 
