@@ -2,15 +2,11 @@
 
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=90wuushenn0"><img width="140px" src="https://i.ytimg.com/vi/90wuushenn0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=90wuushenn0">Comparison of different MIDAS versions</a><br/>Jul 11, 2021</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=90wuushenn0">Comparison of different MIDAS versions</a><br/>2021-Jul-11</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5IImLps1ayw"><img width="140px" src="https://i.ytimg.com/vi/5IImLps1ayw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5IImLps1ayw">Why should you use something else except monocular depth estimation</a><br/>Sep 3, 2020</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=5IImLps1ayw">Why should you use something else except monocular depth estimation</a><br/>2020-Sep-3</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dPstxiHUxJE"><img width="140px" src="https://i.ytimg.com/vi/dPstxiHUxJE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dPstxiHUxJE">3D object detection and tracking using stereo pair</a><br/>Jun 18, 2020</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=t3BIWpOA8Qg"><img width="140px" src="https://i.ytimg.com/vi/t3BIWpOA8Qg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=t3BIWpOA8Qg">SGBM and MonoDepth2 depth estimation comparasion</a><br/>Jun 18, 2020</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=sneeH52yXdo"><img width="140px" src="https://i.ytimg.com/vi/sneeH52yXdo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sneeH52yXdo">Car tracking in Carla using 4 OpenCV object trackers</a><br/>Jun 17, 2020</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=dPstxiHUxJE">3D object detection and tracking using stereo pair</a><br/>2020-Jun-18</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
