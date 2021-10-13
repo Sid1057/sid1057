@@ -17,6 +17,11 @@
 <!-- ## Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Digest 2021-08-17](/2021/08/17/Github-Digest)
+- [GitHub Digest 2021-07-23](/2021/07/23/Github-Digest)
+- [Github Digest 2021-07-15](/2021/07/15/Github-Digest)
+- [Video review: How TRI Trains Better Computer Vision Models with PD Synthetic Data](/2021/07/15/Video-review-How-TRI-Trains-with-Synthetic-Data)
+- [Midas comparison](/2021/07/11/midas-comarison)
 <!-- BLOG-POST-LIST:END -->
 
 
