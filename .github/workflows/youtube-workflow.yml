@@ -14,8 +14,9 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
+          max_post_count: 3
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCtTnP2N39ZJtdKt9i5u7meg"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          date_format: "mmm d, yyyy"
+          date_format: "yyyy-mmm-d"
           template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
           committer_email: "alwinjohn231@gmail.com"
