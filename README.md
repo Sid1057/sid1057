@@ -10,12 +10,12 @@
 
 ## Latest Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EcLiAbgvtwY"><img width="140px" src="https://i.ytimg.com/vi/EcLiAbgvtwY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mH_OvjxAa2I"><img width="140px" src="https://i.ytimg.com/vi/mH_OvjxAa2I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mH_OvjxAa2I">FL2 Self Driving. Part 1: Baseline algorithms</a><br/>2022-Jul-1</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EcLiAbgvtwY"><img width="140px" src="https://i.ytimg.com/vi/EcLiAbgvtwY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EcLiAbgvtwY">FL2 Self Driving. Part 0: Test video</a><br/>2022-Jun-26</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=90wuushenn0"><img width="140px" src="https://i.ytimg.com/vi/90wuushenn0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=90wuushenn0">Comparison of different MIDAS versions</a><br/>2021-Jul-11</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=5IImLps1ayw"><img width="140px" src="https://i.ytimg.com/vi/5IImLps1ayw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5IImLps1ayw">Why should you use something else except monocular depth estimation</a><br/>2020-Sep-3</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ![](https://komarev.com/ghpvc/?username=sid1057&color=gray&style=plastic)
